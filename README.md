@@ -6,4 +6,5 @@ Practicing HTML to form a basic recipe website: a page with a main index with li
 Future objective: Style with CSS.
 
 # Self Reflection
-*Will be filled once I finish! :]
+* Got to make my own decisions on what I wanted to display.
+* Threw in extra formatting beyond the requirements for the project (and I have yet to add more).
