@@ -1,5 +1,5 @@
 # odin-recipes
-Live preview ![here](https://jaerlcruz.github.io/odin-recipes/)
+Live preview [here](https://jaerlcruz.github.io/odin-recipes/)
 From The Odin Project.
 
 Practicing HTML to form a basic recipe website: a page with a main index with links to some recipes.
